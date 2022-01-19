@@ -8,4 +8,4 @@ if (mike == 1990) {
 } else {
   console.log("how old are you?");
 }
-let people = [1990, 1992, 1994, 1996]; //main branch
+let people = ["MIK", "JOH", "SARH", "LIN"]; //film branch
